@@ -1269,7 +1269,7 @@ var methods = {
 
 		return !($.isFunction(callback) && callback.call(this.element[0], event, data) === false
 			|| event.isDefaultPrevented());
-	},
+	}
 	
 	
 	
