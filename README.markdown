@@ -4,10 +4,21 @@ Present your featured content elegantly.
 
 http://www.jcoverflip.com/
 
-## Getting Started
+## Quickstart
 
-1. Install jQuery, jQuery UI, and jCoverflip.
-2. Call .jcoverflip() on the parent element to create the slideshow.
+1. Install [jQuery 1.3+](http://docs.jquery.com/Downloading_jQuery), [jQuery UI 1.7.2](http://jqueryui.com/download), and [jCoverflip](https://nodeload.github.com/NewSignature/jcoverflip/zipball/master)
+2. Call the scripts in the `<head>` of your HTML document.
+
+        <script type="text/javascript" src="jquery.js"></script>
+        <script type="text/javascript" src="jquery.ui.js"></script>
+        <script type="text/javascript" src="jquery.jcoverflip.js"></script>
+
+3. Include the following CSS:
+
+        .ui-jcoverflip {position: relative;}
+        .ui-jcoverflip--item {position: absolute; display: block;}
+
+4. Call .jcoverflip() on the parent element to create the slideshow.
 
         Ex:
         <ul id="flip">
@@ -23,7 +34,7 @@ http://www.jcoverflip.com/
 
 ## Documentation
 
-http://www.jcoverflip.com/documentation
+More detailed documentation can be found in our [wiki](/NewSignature/jcoverflip/wiki).
 
 
 ## License
