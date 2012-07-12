@@ -9,17 +9,17 @@ http://www.jcoverflip.com/
 1) Install jQuery, jQuery UI, and jCoverflip.
 2) Call .jcoverflip() on the parent element to create the slideshow.
 
-  Ex:
-  <ul id="flip">
-    <li><a href="..."><img ...><span class="title">My title</span></a></li>
-    <li><a href="..."><img ...><span class="title">My title</span></a></li>
-    ...
-  </ul>
-  <script>
-    $(function(){
-      $('#flip').jcoverclip();
-    });
-  </script>
+    Ex:
+    <ul id="flip">
+      <li><a href="..."><img ...><span class="title">My title</span></a></li>
+      <li><a href="..."><img ...><span class="title">My title</span></a></li>
+      ...
+    </ul>
+    <script>
+      $(function(){
+        $('#flip').jcoverclip();
+      });
+    </script>
 
 ## Documentation
 
