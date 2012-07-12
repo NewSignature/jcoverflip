@@ -5,7 +5,7 @@ Present your featured content elegantly.
 ## Quickstart
 
 1. Install [jQuery 1.3+](http://docs.jquery.com/Downloading_jQuery), [jQuery UI 1.7.2](http://jqueryui.com/download), and [jCoverflip](https://nodeload.github.com/NewSignature/jcoverflip/zipball/master)
-2. Call the scripts in the `<head>` of your HTML document.
+2. Call the following scripts in the `<head>` of your HTML document:
 
         <script type="text/javascript" src="jquery.js"></script>
         <script type="text/javascript" src="jquery.ui.js"></script>
@@ -32,7 +32,7 @@ Present your featured content elegantly.
 
 ## Documentation
 
-More detailed documentation can be found in our [wiki](/NewSignature/jcoverflip/wiki).
+More detailed documentation can be found in our [GitHub wiki](/NewSignature/jcoverflip/wiki).
 
 
 ## License
