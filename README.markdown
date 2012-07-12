@@ -6,8 +6,8 @@ http://www.jcoverflip.com/
 
 ## Getting Started
 
-1) Install jQuery, jQuery UI, and jCoverflip.
-2) Call .jcoverflip() on the parent element to create the slideshow.
++ Install jQuery, jQuery UI, and jCoverflip.
++ Call .jcoverflip() on the parent element to create the slideshow.
 
     Ex:
     <ul id="flip">
