@@ -2,8 +2,6 @@
 
 Present your featured content elegantly. 
 
-http://www.jcoverflip.com/
-
 ## Quickstart
 
 1. Install [jQuery 1.3+](http://docs.jquery.com/Downloading_jQuery), [jQuery UI 1.7.2](http://jqueryui.com/download), and [jCoverflip](https://nodeload.github.com/NewSignature/jcoverflip/zipball/master)
@@ -39,7 +37,7 @@ More detailed documentation can be found in our [wiki](/NewSignature/jcoverflip/
 
 ## License
 
-Copyright New Signature 2010 - 2011
+Copyright New Signature 2010 - 2012
 
 This program is free software: you can redistribute it and/or modify it under the terms of the 
 GNU General Public License as published by the Free Software Foundation, either version 3 of the 
@@ -53,4 +51,4 @@ You should have received a copy of the GNU General Public License along with thi
 If not, see <http://www.gnu.org/licenses/>.
 
 You can contact New Signature by electronic mail at labs@newsignature.com 
-or- by U.S. Postal Service at 1100 H St. NW, Suite 940, Washington, DC 20005.
+or - by U.S. Postal Service at 1101 New York Ave NW, Suite 675, Washington, DC 20005.
