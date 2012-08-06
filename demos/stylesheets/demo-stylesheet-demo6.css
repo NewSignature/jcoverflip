@@ -1,0 +1,82 @@
+<style>
+      .ui-jcoverflip {
+        position: relative;
+      }
+      
+      .ui-jcoverflip--item {
+        position: absolute;
+        display: block;
+      }
+      
+      /* Basic sample CSS */
+      #flip {
+        height: 200px;
+        width: 630px;
+        margin-bottom: 50px;
+      }
+      
+      #flip .ui-jcoverflip--title {
+        position: absolute;
+        bottom: -30px;
+        width: 100%;
+        text-align: center;
+        color: #555;
+      }
+      
+      #flip img {
+        display: block;
+        border: 0;
+        outline: none;
+      }
+      
+      #flip a {
+        outline: none;
+      }
+      
+      
+      #wrapper {
+        height: 300px;
+        width: 630px;
+        overflow: hidden;
+        position: relative;
+      }
+      
+      .ui-jcoverflip--item {
+        cursor: pointer;
+      }
+      
+      
+      
+      body {
+        font-family: Arial, sans-serif;
+        width: 630px;
+        padding: 0;
+        margin: 0;
+      }
+      
+      ul,
+      ul li {
+        margin: 0;
+        padding: 0;
+        display: block;
+        list-style-type: none;
+      }
+      
+      #scrollbar {
+        position: absolute;
+        left: 20px;
+        right: 20px;
+        
+      }
+      
+      
+      .title a {
+        font-size: 80%;
+      }
+      
+      .title .tags {
+        font-size: 80%;
+        color: #888;
+      }
+
+    </style>
