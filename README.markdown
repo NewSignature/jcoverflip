@@ -2,6 +2,8 @@
 
 Present your featured content elegantly. 
 
+## jCoverflip has not been updated to work with the most recent versions of jQuery and jQuery UI! Proceed with caution!
+
 ## Quickstart
 
 1. Install [jQuery 1.3+](http://docs.jquery.com/Downloading_jQuery), [jQuery UI 1.7.2](http://jqueryui.com/download), and [jCoverflip](https://nodeload.github.com/NewSignature/jcoverflip/zipball/master)
