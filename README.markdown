@@ -28,7 +28,7 @@ Present your featured content elegantly.
         </ul>
         <script>
           $(function(){
-            $('#flip').jcoverclip();
+            $('#flip').jcoverflip();
           });
         </script>
 
